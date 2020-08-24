@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/transparent">
+
+
+    <TextView
+        android:id="@+id/vid1Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/youTube1Title"
+        android:textSize="20sp"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        android:background="@android:color/holo_red_dark"
+        android:gravity="center"/>
+
+    <WebView
+        android:id="@+id/webVid1"
+        android:layout_width="match_parent"
+        android:layout_height="287dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/textBackGround">
+        <TextView
+            android:id="@+id/vid1Des"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="@android:color/white"
+            android:text="@string/vid1_description" />
+    </RelativeLayout>
+</LinearLayout>

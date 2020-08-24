@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/register"
+            android:icon="@drawable/ic_register"
+            android:title="@string/voter_registration_information" />
+        <item
+            android:id="@+id/vote"
+            android:icon="@drawable/ic_vote"
+            android:title="@string/voter_information" />
+        <item
+            android:id="@+id/more"
+            android:icon="@drawable/ic_live_help_black_24dp"
+            android:title="@string/more_information" />
+        <item
+            android:id="@+id/game"
+            android:icon="@drawable/ic_game"
+            android:title="@string/voter_game" />
+    </group>
+    <item android:title="Videos">
+        <menu>
+            <item
+                android:id="@+id/video1"
+                android:icon="@drawable/ic_vid"
+                android:title="Election Basics" />
+            <item
+                android:id="@+id/video2"
+                android:icon="@drawable/ic_vid"
+                android:title="No Such This As Not Voting" />
+        </menu>
+    </item>
+
+</menu>

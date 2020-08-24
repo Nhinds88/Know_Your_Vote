@@ -1,0 +1,1264 @@
+<resources>
+    <string name="app_name">Know Your Vote</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="state_select">Select the state you live in:</string>
+
+    <string name="quote1">“Always vote for principle, though you may vote alone, and you may cherish the sweetest reflection that your vote is never lost.”
+― John Quincy Adams </string>
+    <string name="quote2">“They have the same point of view. The two parties are two factions of the business party. Most of the population doesn\'t even bother voting because it looks meaningless. They\'re marginalized and properly distracted. At least that\'s the goal.”
+― Noam Chomsky</string>
+    <string name="quote3">“There\'s no such thing as a vote that doesn\'t matter.”
+― Barack Obama</string>
+    <string name="quote4">“Elections belong to the people. It\'s their decision. If they decide to turn their back on the fire and burn their behinds, then they will just have to sit on their blisters.”
+― Abraham Lincoln</string>
+
+    <string name="reg_Alabama">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    18 years of age or older \n
+    Resident of Alabama \n
+    Not convicted of a felony offense \n
+    Not declared mentally incapacitated by a court \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    You may register at any time.  The cut-off for registering to vote for a particular election is fifteen (15) days prior to Election Day.  If you register within the cut-off period prior to an election, then you will not be eligible to vote in that particular election, but you will be able to vote in any following elections. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    All Probate Tag Office Locations \n
+    All City / County Library Branches \n
+    All County Health Department Offices \n
+    All County Agencies \n
+    Board of Registrars Office \n
+    Mail in an application \n
+    Online at the Secretary of State\'s Website
+    </string>
+    
+    <string name="reg_Alaska">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    18 years of age or older. Also can register 90 days before 18th birthday. \n
+    Not convicted of felony involving moral turpitude, unless voting right restored. \n
+    Not registered to vote in another state. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    Can register at any time. The cut-off for registering to vote for a particular election is Thirty (30) days prior to Election day. must only be registered in one jurisdiction. If leave the state for an extended period of time with the intention to return. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Municipal Clerk\'s Office \n
+    Municipal Libraries \n
+    Alaska DMV \n
+    Division of Elections Office \n
+    Online
+    </string>
+
+    <string name="reg_Arizona">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    18 years of age or older. \n
+    Not convicted of felony. \n
+    Not adjudicated incapacitated by a court of law. \n
+    Resident of Arizona and the county listed on registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    Can register at any time. The cut-off for registering to vote for a particular election is Twenty Nine (29) days prior to Election day. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    County Recorder\'s Office \n
+    By mail \n
+    Through the Address Confidentiality Program(for program members only) \n
+    Online
+    </string>
+
+    <string name="reg_Arkansas">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    18 years of age or older. \n
+    Not convicted of felony. \n
+    Not Adjudged as mentally incompetent by a court. \n
+    Must provide last four of social security number or driver\'s license number / ID number or a current utility bill.
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    Can register at any time. The cut-off for registering to vote for a particular election is Thirty (30) days prior to Election day. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    County Clerk\'s Office \n
+    Public Libraries \n
+    Arkansas DMV \n
+    Division of Elections Office \n
+    Military recruitment office. \n
+    Mail \n
+    Phone \n
+    Online
+    </string>
+
+    <string name="reg_California">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    18 years of age or older. Also can pre-register at 16 or 17 years old. \n
+    Not currently is state of federal prison or on parole for the conviction of a felony. \n
+    Not currently found mentally incompetent by a court. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    Can register at any time. The cut-off for registering to vote for a particular election is Fifteen (15) days prior to Election day. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Government Offices \n
+    Public Libraries \n
+    California DMV \n
+    Division of Elections Office \n
+    Phone \n
+    Online
+    </string>
+
+    <string name="reg_Colorado">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    18 years of age or older. Also can pre-register at 16 or 17 years old. \n
+    Provides a valid Colorado Driver’s License, Colorado ID card (Issued by the Department of Revenue) OR presents one of the acceptable forms of identification. \n
+    A resident of the state of Colorado for at least 22 days. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    Can register at any time. The cut-off for registering to vote for a particular election is eighth (8) days prior to Election day or register in-person at a polling center the day of the election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Voter Registration Agency \n
+    Mail \n
+    Colorado DMV \n
+    Online
+    </string>
+
+    <string name="reg_Connecticut">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Are you at least 17 and turning 18 before Election Day. \n
+    Not convicted of a felony. \n
+    A resident of the state of Connecticut. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    Your application must be postmarked or received by a voter registration agency by the 7th day before an election (OR you may register in person with your Registrar of Voters by the 7th day before an election). \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Voter Registration Office \n
+    Mail \n
+    Fax \n
+    Online
+    </string>
+
+    <string name="reg_Delaware">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be 18 years of age by the date of the next General Election. \n
+    Not convicted of a felony. \n
+    Not adjudged mentally incompetent. \n
+    Must be a resident of Delaware. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    Your application must be postmarked or received anytime except after the fourth Saturday before a Primary or General Election through the day of the election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Voter Registration Office \n
+    Delaware DMV \n
+    Mail \n
+    Phone \n
+    Online
+    </string>
+
+    <string name="reg_Florida">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be at least 18 years old to register (You may pre-register to vote if you are 16 years old). \n
+    Not convicted of a felony. \n
+    Not have been adjudicated mentally incapacitated with respect to voting in Florida or any other state without having the right to vote restored. \n
+    Must be a resident of Florida. \n
+    ID requirements for Voter Registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    The last day to register to vote is 29 days before an election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Any entity authorized by the Florida Fish and Wildlife Commission to issue permits for fishing, hunting or trapping. \n
+    Public Library \n
+    Mail \n
+    Online
+    </string>
+
+    <string name="reg_Georgia">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    At least 17 1/2 years old to register and 18 to vote. \n
+    Must be a legal resident of the county in which you wish to vote. \n
+    Not convicted of a felony. \n
+    Not have been adjudicated mentally incapacitated. \n
+    ID requirements for Voter Registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    The voter registration deadline is generally 28 days before the election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Election Office \n
+    Mail \n
+    fax \n
+    Online
+    </string>
+
+    <string name="reg_Hawaii">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    At least eighteen years of age Hawaii law allows qualified individuals to pre-register at sixteen years of age. Upon reaching eighteen years of age, they will be automatically registered. \n
+    Not convicted of a felony. \n
+    Not have been adjudicated mentally incapacitated. \n
+    Must be a legal resident of the State of Hawaii. \n
+    ID requirements for Voter Registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    The application for Voter Registration must be submitted 1 month before the election. But eligible voters can register and vote the day of the election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Election Office \n
+    Public Libraries \n
+    Post Office \n
+    Most State Agencies \n
+    City Halls \n
+    Mail \n
+    fax \n
+    Online
+    </string>
+
+    <string name="reg_Idaho">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+     At least 18 years old on Election Day. \n
+    Not convicted of a felony. \n
+    Not have been adjudicated mentally incapacitated. \n
+    Must be a resident of Idaho and the county for 30 days prior to election. \n
+    ID requirements for Voter Registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    Every voter registering at an agency must be registered by the 25th day prior to an election. If you mail the registration card to your county clerk, the card must be postmarked 25 days prior to the election. You may register at the polls on election day by providing proof of residence. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    County Clerks Office \n
+    Mail \n
+    Online
+    </string>
+
+    <string name="reg_Illinois">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+     At least 18 years of age by election day; 17 years of age to vote in a General Primary Election if individual will be 18 by the General Election. \n
+    Must have been a resident of the precinct for at least 30 days prior to election day. \n
+    ID requirements for Voter Registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    Regular registration is open year round except during the 27-day period prior to an election and during the 2-day period after each election (1 day after in Chicago).
+Registration during the grace period is only available “in person” at sites authorized by each election authority.
+Online voter registration must be completed 16 days prior to the election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    County Clerks Office \n
+    Election Offices \n
+    Schools \n
+    Public Libraries \n
+    Military Recruitment Offices \n
+    Mail \n
+    Fax \n
+    Online
+    </string>
+
+    <string name="reg_Indian">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+     At least 18 years of age on or before election day. A 17-year-old may register and vote in the primary election if the voter turns 18 on or before the next general or municipal election. \n
+    Must be a resident of Indiana and reside in the precinct for at least 30 days before the election. \n
+    Mental competency is not a requirement to register to vote in Indiana. \n
+    Must not currently be imprisoned after being convicted of a crime. \n
+    ID requirements for Voter Registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    28 days before the election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    County Clerks Office \n
+    Election Offices \n
+    Indiana DMV \n
+    Public assistance office \n
+    Mail \n
+    Fax \n
+    Online
+    </string>
+
+    <string name="reg_Iowa">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+     At least 17 1/2 years old (must be 18 years old by election day to vote). \n
+    Must be a resident of Iowa. \n
+    Not been judged mentally incompetent to vote by a court. \n
+    Not be a convicted felon. \n
+    ID requirements for Voter Registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    - 10 days before general elections \n
+- 11 days before all other elections \n
+If you were not able to pre-register to vote, you may register to vote on Election Day at the polling place for the precinct where you currently live. For more information, visit Election Day Registration. \n
+If you are a college student, you may choose to register to vote at your home address or at your college address. You cannot register to vote at both. If college students do not have an Iowa ID, all they have to do is register to vote before Election Day and they will be provided a Voter ID Card for free, automatically. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    County Auditor\'s Office \n
+    Mail \n
+    Fax \n
+    Online
+    </string>
+
+    <string name="reg_Kansas">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+     Be 18 years of age or older. \n
+    Must be a resident of Kansas. \n
+    If you have been convicted of a felony, you must have received final discharge from imprisonment, parole, or conditional release. \n
+    ID requirements for Voter Registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    The deadline to register to vote for any election is 21 days prior to that election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    County Election Office \n
+    Mail \n
+    Fax \n
+    Online
+    </string>
+
+    <string name="reg_Kentucky">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+        You may register to vote in Kentucky as a 17-year-old if you will be 18 years old by the next General Election. \n
+    Must be a resident of Kentucky and do not claim the right to vote anywhere outside Kentucky. \n
+    Not judged mentally incompetent in a court of law. \n
+    Not be a convicted felon or, if convicted of a felony offense, you must have had your civil rights restored by executive pardon. \n
+    ID requirements for Voter Registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    Deadline to register to vote for the General Election is at least 28 days before the election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    County Clerks Office \n
+    Mail \n
+    Fax \n
+    Online
+    </string>
+
+    <string name="reg_Louisiana">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    To register you must be at least 17 years old (16 years at the Louisiana Office of Motor Vehicles or Registrar of Voters Office), but the voter must be 18 years old to vote. \n
+    Must reside in Louisiana and parish in which you seek to register. \n
+    Not be under a judgment of full interdiction for mental incompetence or partial interdiction with suspension of voting rights. \n
+    Not be under an order of imprisonment for conviction of a felony. \n
+    ID requirements for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    Online Registration System: Voters must be registered at least 20 days prior to an election if registering to be eligible to vote in that particular election. \n
+In person or by mail registration: Voters must be registered at least 30 days prior to an election if registering to be eligible to vote in that particular election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Louisiana DMV \n
+    WIC Offices \n
+    Food stamp offices \n
+    Medicaid offices \n
+    Armed Forces recruitment offices \n
+    Louisiana Department of Child and Family Services \n
+    Mail \n
+    Fax \n
+    Online
+    </string>
+
+    <string name="reg_Maine">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    At least 18 years old by the General Election Day. A 17 year old may vote in a Primary Election, if that person will be 18 by the General Election. \n
+    Must be registered in the community where you reside. \n
+    No disenfranchisement; felons can vote while serving their prison sentence. \n
+    ID requirements for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    There is no cut-off date for registering to vote in person at your town office or city hall. If you want to register to vote by mail, the cut-off date is the close of business 21 days before the election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Town Office or City Hall \n
+    Maine DMV \n
+    Most state and federal social service agencies \n
+    In Maine the only non in-person way to register to vote is by fax \n
+    </string>
+
+    <string name="reg_Maryland">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    You may register to vote if you are at least 16 years old but cannot vote unless you will be at least 18 years old by the next general election. \n
+    Must be a Maryland resident. \n
+    Not under guardianship for mental disability and found by a court to be unable to communicate a desire to vote. \n
+    -Not have been convicted of a felony, or if you have, you have completed serving a court ordered sentence of imprisonment, including any term of parole or probation for the conviction. \n
+-Cannot be convicted of buying or selling votes. \n
+    ID requirements for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    Your application must be received by your local Board of Elections 21 days prior to the election. After your application has been reviewed and you are deemed qualified to vote, you will receive a Voter Notification Card in the mail. If you do not receive your card within three weeks after submitting an application, you should contact your local Board of Elections. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Local Board of Elections \n
+    State Board of Elections \n
+    Department of Health and Mental Hygiene \n
+    Department of Social Services \n
+    Maryland DMV \n
+    Offices of Aging \n
+    MTA Paratransit Certification Office \n
+    All public institutions of higher education \n
+    Recruitment offices of the U.S. Armed Forces \n
+    Marriage License offices \n
+    Offices for students with disabilities at all Maryland colleges and universities \n
+    Fax \n
+    Mail \n
+    Online \n
+    </string>
+
+    <string name="reg_Massachusetts">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    May be 16 years old to register. Must be 18 years old on Election Day to vote. \n
+    Must be a resident of Massachusetts. \n
+    Must not currently incarcerated by reason of a felony conviction. \n
+    ID requirements for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+- 20 days before all primaries and elections, and/or \n
+- 10 days before a special town meeting. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Local Election offices \n
+    Fax \n
+    Mail \n
+    Online \n
+    </string>
+
+    <string name="reg_Michigan">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be 18 years old by election day. \n
+    A resident of Michigan and the city or township where you are applying to register to vote. \n
+    ID requirements for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+Voter registration will be in effect for the next election if postmarked or delivered no later than 15 days before election day and you have met all the qualifications to register to vote. \n
+
+After the 15 day deadline and on Election Day, you may register to vote by bringing the voter registration form and residency verification to your city/township clerk. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    In person: you can register to vote at any of the following places \n
+-at your county, city, or township clerk\'s office \n
+-any Secretary of State branch office. \n
+-Department of Health and Human Services \n
+-Department of Community Health \n
+-Department of Licensing and Regulatory Affairs \n
+-Military recruitment centers \n
+-Voter registration drives \n
+By mail/ in writing: Download a form online and mail it completed to the address indicated on the form. If you register by mail, you must vote in person at your assigned precinct the first time you vote, unless you are one of the following: \n
+-you personally hand-deliver the form to your county, city or township clerk\'s office instead of mailing the form \n
+-disabled as defined by state law \n
+-60 years of age or older \n
+-you are eligible to vote under the Uniformed and Overseas Citizens Absentee Voting Act \n
+By fax: Consult your county clerk for faxing options. \n
+    </string>
+
+    <string name="reg_Minnesota">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be at least 18 years old on Election Day. \n
+    Must be a resident of Minnesota for 20 days immediately preceding Election Day. \n
+    You can vote while under guardianship unless a court has ruled that you are legally incompetent. \n
+    Must be finished with all parts of any felony sentence. \n
+    ID requirements for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    In Minnesota, you may register 21 days before Election Day or on Election Day at your polling place. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online: Minnesota voter registration application \n
+    In person: You may register at your polling place on Election Day. \n
+    By mail/ in writing: You may register to vote by completing an application and mailing it to your local election official. Click on this link to view Voter Registration forms in a different language. \n
+    By fax: Contact your local election office for faxing options. \n
+    </string>
+
+    <string name="reg_Mississippi">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be at least 18 years old (or will be 18 by the date of the next General Election). \n
+    Must be a resident of Mississippi and the county, city or town for 30 days prior to the election. \n
+    Must not be declared mentally incompetent by a court. \n
+    Must not be convicted of a disenfranchising crime as defined by Section 241 of the Mississippi Constitution or by Attorney General Opinion, unless pardoned, rights of citizenship restored by the Governor or suffrage rights restored by the Legislature. \n
+    ID requirements for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    Voters must register at least 30 days prior to the election in which they wish to vote. Mail in applications must be postmarked 30 days before the election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    In person:You can register to vote at any of the following: \n
+    -Circuit Clerk’s office \n
+    -your Municipal Clerk’s office \n
+    -Department of Public Safety \n
+    -Any state or federal agency offering government services, such as the Department of Human Services \n
+    By mail/ in writing: Download the form online and mail it to your Circuit clerk. Keep in mind voters who mail in registrations must present ID the first time they vote. \n
+    </string>
+
+    <string name="reg_Missouri">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    must be 17 ½ years of age to register and 18 years on or before Election Day. \n
+    Must be a Missouri resident. \n
+    Must not be adjudged incapacitated by any court of law. \n
+    Cannot vote while in prison, while on probation or parole after the conviction of a felony, cannot have been convicted of a felony or misdemeanor connected with voting. \n
+    ID requirements for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    Voters must register in person by the Election Day deadline if registering by mail, your voter registration must be postmarked by the fourth Wednesday prior to the election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online: Mississippi voter registration form \n
+    In person: Voters can register at any of the following locations: \n
+    -Local County clerk \n
+    -At a drivers licensing office while applying for or renewing a driver\'s license \n
+    -At a designated state agency while the applicant is obtaining services from the agency. Examples of state agencies providing registration applications to their clients include Division of Family Services, Military Recruitment, or WIC. \n
+    -A library \n
+    By mail/ in writing: Download a form and mail the physical copy to your local county clerk. \n
+    By fax: Contact your local county clerk  for faxing options. Or you can request an application be mailed to you \n
+    </string>
+
+    <string name="reg_Montana">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be at least 18 years old on or before Election Day. \n
+    Must have lived in Montana for at least 30 days. \n
+    Not judged in a court of law to be of unsound mind. \n
+    Not be a convicted felon serving a sentence in a penal institution. \n
+    ID requirements for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    The deadline for regular registration is 5 pm 30 days before any election. Individuals can late-register for most elections at the county election office or the designated location beginning 29 days before election day, and ending at the close of polls on election day (except from noon until 5:00 p.m. on the day before election day). \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online: Montana Voter pre-registration Application note: you will not be legally registered until you appear at the County Election Office and sign the electronically submitted application \n
+    In person: You can register in person at the following locations: \n
+    - Your county election office between the hours of 8 a.m and 5 pm \n
+    -Fill out and sign a registration form when you apply for or renew your driver’s license or Montana ID \n
+    By mail/ in writing: Obtain a registration form online and mail it to your county election office \n
+    By fax: Contact your county election office faxing options. \n
+    </string>
+
+    <string name="reg_Neb">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Be at least 18 years of age on or before the first Tuesday after the first Monday in November. \n
+    Must live in the State of Nebraska. You may register to vote the same day you become a resident of the state of Nebraska. \n
+    Must not have been officially found to be mentally incompetent. \n
+    Have not been convicted of a felony or, if convicted, it has been at least two years since completion of the sentence for the felony, including any parole term. \n
+    ID requirements for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    -Mail-in voter registrations must be mailed and postmarked on or before the third Friday preceding an election. \n
+    -Individuals may register in person at the County Clerk/Election Commissioner’s office prior to 6 p.m. on the second Friday preceding an election. \n
+    -Online Voter Registration closes just before midnight 10 days before the election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online: Online Voter Registration \n
+    In person: Nebraska Voter Registration Application is available at: \n
+    -local County Clerk/Election Commissioner’s office \n
+    -Department of Motor Vehicles when applying for or renewing your driver’s license \n
+    -Public assistance agencies (State Department of Health and Human Services and State Department of Education) \n
+    -May be available at banks, post offices, and libraries \n
+    By mail/ in writing: You may download Nebraska voter registration application in English or Spanish or pick up one from the above locations and mail it to your County Clerk. \n
+    By fax: Contact your County Clerk for faxing options. \n
+    </string>
+
+    <string name="reg_Nevada">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be at least 18 years of age on or before Election Day. \n
+    Must be a resident of Nevada for 30 days preceding any election. \n
+    Must not be declared by a court to be mentally incompetent. \n
+    Must have had your rights restored if you were convicted of a felony. More information about restoration of rights. \n
+    ID requirements for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    -Mail: Postmarked 28 days before the election \n
+    -Online: 19 days before the election \n
+    -In-Person: 21 days before the election \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online: Online Voter Registration \n
+    By mail/ in writing: Fill out application, print, and mail or deliver in person a signed copy to Your County Clerk/Registrar of Voters office, Your City Clerk Office, or Nevada Department of Motor Vehicles. \n
+    In person: You may register to vote at any NV Department of Motor Vehicles office, at your county clerk or registrar\'s office, at various social service agencies, and on college campuses. \n
+    Other Voter Registration Application Information: Voter registration drives are also valid places to register to vote if they follow Nevada guidelines. \n
+    </string>
+
+    <string name="reg_NewHampshire">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be 18 years or older on Election Day. \n
+    There is no minimum period of time you are required to have lived in the state before being allowed to register. You may register as soon as you move into your new community. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    The last day to register is the day that the Supervisors of the Checklist set their meeting. They are required to meet on a day 6-13 days prior to the general election. You should check with your clerk\'s office, the town/city website, or local newspapers for the day and time of the session. If you miss this date, you may register to vote at the polls on general election day (November 6, 2018) if you are qualified. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    In person: \n
+    1)  You may apply to your town or city clerk\'s office.  You will be required to fill out a standard voter registration form and show a verifiable proof of domicile. \n
+    2)  You may also register with your community\'s Supervisors of the Checklist. By law, the supervisors are required to meet on a day which is 6 - 13 days prior to a state election.  Check the local newspaper(s), your town\'s website, or call your clerk\'s office for the date and time of such meeting.  If you live in a city, you may register with the Registrar of Voters at city hall. \n
+    3)  Qualified individuals may register to vote at the polling place on election day at all elections. \n
+    By mail/ in writing: Please contact your local election office to find out about submitting an application by mail. \n
+    </string>
+
+    <string name="reg_NewJersey">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be 18 years old by the next election. \n
+    Must be a resident of the county for 30 days before the election. \n
+    New Jersey has no mental competency standards in regards to voting. \n
+    You are NOT currently serving a sentence, probation or parole because of a felony conviction. \n
+    ID required for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    The registration deadline to vote is 21 days prior to Election Day. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online: Download the statewide English form or download alternate languages or county specific forms. \n
+    In person: Applications for registration can be obtained from the Commissioner of Registration office in the County where you live or Division of Motor Vehicle offices. \n
+    You can also register to vote at the same time you are applying for assistance or service at the following agencies: \n
+    -NJ Medical Assistance and Health Services Program \n
+    -WIC (Supplemental Food Program for Women, Infant and Children) \n
+    -Work First NJ Programs \n
+    -Division of Developmental Disabilities \n
+    -Office of Disability Services- Department of Human Services- Public Offices \n
+    -Armed Forces of the United States Recruitment Offices \n
+    -Division of Vocational Rehabilitation Services - Department of Labor \n
+    -Commission of the Blind and Visually Impaired \n
+    -County Welfare Agency or County Board of Social Services \n
+    By mail/ in writing: You can also print a registration application and after entering required data, mail it to the Commissioners of Registration office in the county where you reside. In addition, this form can be used for name and address changes. \n
+    By fax: The Commissioners of Registration cannot accept faxed copies or an electronic transmission of a voter registration form since an original signature is required. \n
+    </string>
+
+    <string name="reg_NewMexico">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be 18 years or older at the time of the next election. \n
+    Must be a resident of New Mexico. \n
+    Must not be legally declared mentally incapacitated. \n
+    You can register to vote once you have completed the court-ordered sentence of imprisonment, including any term of parole or probation for the conviction. \n
+    ID required for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    Voter registration closes at 5pm 28 days prior to an election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online: New Mexico Online Voter Registration \n
+    In person: The New Mexico Certificate of Registration Form is available at \n
+    - county clerk\'s office \n
+    -the Office of the Secretary of State \n
+    -Motor Vehicle Division offices \n
+    -libraries \n
+    -post office branches \n
+    -city and town halls \n
+    -other government buildings \n
+    -public assistance offices \n
+    By mail/ in writing: print out this voter registration form, fill it out and mail it to your local county clerk\'s office. \n
+    </string>
+
+    <string name="reg_NewYork">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be 18 years old by December 31 of the year in which you file this form (note: you must be 18 years old by the date of the general, primary or other election in which you want to vote). \n
+    Must live at your present address at least 30 days before an election and not claim the right to vote elsewhere. \n
+    Must not be declared mentally incompetent by a court. \n
+    Must not be in prison or on parole for a felony conviction (unless parolee pardoned or restored rights of citizenship). \n
+    ID required for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    MAIL REGISTRATION (N.Y. Election Law Section 5-210(3)) \n
+    Applications must be postmarked no later than October 11, 2019 and received by a board of elections no later than October 16, 2019 to be eligible to vote in the General Election. \n
+
+    IN PERSON REGISTRATION (N.Y. Election Law Sections 5-210, 5-211, 5-212) \n
+    You may register at your local board of elections or any state agency participating in the National Voter Registration Act, on any business day throughout the year but, to be eligible to vote in the General Election, your application must be received no later than October 11, 2019. If honorably discharged from the US Military or have become a naturalized US Citizen after October 12, 2019, you may register in person at the Board of Elections up until October 26, 2019. \n
+
+    CHANGE OF ADDRESS (N.Y. Election Law Section 5-208(3)) \n
+    Notices of change of address from registered voters received by October 16, 2019 by a county board of elections must be processed and entered in the records in time for the General Election. \n
+
+    CHANGE OF ENROLLMENT (N.Y. Election Law Section 5-304(3)) \n
+    An application to change one’s party enrollment for 2020 must be received by the board of elections no later than October 11, 2019. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    In person: In addition to the County Board of Elections offices, you may apply to register to vote at any of the following New York State agency offices. \n
+    -Department of Motor Vehicles \n
+    -Alcoholism and Substance Abuse Services \n
+    -City Universities of New York(CUNY) \n
+    -Commission for the Blind and Visually Impaired \n
+    -Commission on Quality of Care and Advocacy for Persons with Disabilities \n
+    -Department of Health-WIC Program \n
+    -Department of Labor \n
+    -Department of Social Services \n
+    -Department of State \n
+    -Division of Veterans’ Affairs \n
+    -Military Recruiting Offices \n
+    -Office for the Aging \n
+    -Office of Mental Health \n
+    -Office for People with Developmental Disabilities \n
+    -State Universities of New York(SUNY) \n
+    -Vocational and Educational Services for Individuals with Disabilities \n
+    -Workers’ Compensation Board \n
+
+    By mail/ in writing: Enter your name directly into the NY Department of Elections mailing list database to have a voter registration form mailed to you. Or turn in a form to your local county Board of Elections office. \n
+    You can also call 1-800-FOR-VOTE hotline to request a voter application. \n
+    </string>
+
+    <string name="reg_NorthCarolina">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be at least 18 years old or will be 18 by the next general election. \n
+    Must be a resident of your county and must have resided at your residential address for at least 30 days before the election. \n
+    You must not be currently serving a felony sentence. If previously convicted of a felony, you must have fully completed your sentence, including probation and/or parole. \n
+    ID required for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    he deadline to register to vote in this state is 25 days before the day of the election. Forms that are mailed must be received or postmarked by the deadline. \n
+    \n
+    If you miss the voter registration deadline, you may register and vote during the one-stop absentee voting period (early voting) for the election. See the section on Early Voting for more information. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    In person: Hand deliver your completed form to your County Board of Elections or register to vote at any of the following locations: \n
+    -NC State Board of Elections \n
+    -County Boards of Elections \n
+    -Public libraries \n
+    -Public high schools or college admissions offices. \n
+    \n
+    Further, the National Voter Registration Act of 1993 (NVRA) requires certain agencies in this state to offer voter registration services when at these locations for agency services. These agencies include are: \n
+    -North Carolina Department of Motor Vehicles (NC DMV) \n
+    -Public Assistance Agencies \n
+    -Departments of Social Services (DSS) \n
+    -Departments of Public Health (WIC) \n
+    -Disability Services Agencies \n
+    -Vocational Rehabilitation offices \n
+    -Departments of Services for the Blind \n
+    -Departments of Services for the Deaf and Hard of Hearing \n
+    -Departments of Mental Health Services \n
+    -Employment Security Commission (ESC) \n
+    \n
+    By mail/ in writing: Download an application or pick one up from any of the above in-person voter registration location and mail it completed to your County Board of Elections. \n
+    \n
+    By fax: If registering for the first time in the county in which you presently reside, or if you are changing your party affiliation, your county board of elections must receive your originally signed application. If you are currently registered in your county of residence and are using this form to update your name, address, or other information, you may also fax or email a scanned image of your signed application. Click here to find the fax number for your county Board of Elections. \n
+    </string>
+
+    <string name="reg_NorthDak">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be at least 18 years old on Election Day. \n
+    Must be a legal resident of North Dakota and a resident in the precinct for 30 days preceding the election. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    North Dakota is the only state without voter registration. North Dakota law still provides cities with the ability to register voters for city elections. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online: Complete the online application. \n
+    In person: You may obtain and complete an absentee ballot request in person at your county auditor\'s office. \n
+    By Mail: Download an Absentee/Mail Ballot Application \n
+    Military and overseas voting: Military and Overseas voters may obtain a ballot by means of the absentee/mail ballot application. See North Dakota\'s guide for military and overseas voters for more information. \n
+    </string>
+
+    <string name="reg_Ohio">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be at least 18 years old on or before the day of the general election. If you will be 18 on or before the general election, you may vote in the primary election to nominate candidates, but you cannot vote on issues or party central committees until you are 18. \n
+    Must be a resident of Ohio at least 30 days immediately before the election. \n
+    Not declared incompetent for voting purposes by a probate court. \n
+    You are not incarcerated (in jail or prison for a felony conviction under the laws of Ohio, another state or the United States). Also, you are not eligible to register if you have been permanently denied the right to vote for violations of the election laws. \n
+    ID Required for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    Your properly completed voter registration form must be postmarked or received by the 30th day before the election in which you wish to vote. However, if the voter registration deadline falls on a day when offices of the Secretary of State and County Board of Elections are closed, the deadline is extended to the succeeding business day when the office is open. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online: Ohio voter registration \n
+    Download and mail the form to Ohio Secretary of State\'s Office \n
+    In person: You may fill out a registration form and return it in person or by US mail at any County Board of Elections, The Ohio Secretary of State’s Office, BMV or Deputy Registrars or any of the following locations: \n
+    -The Department of Job and Family Services \n
+    -The Department of Health (including the Women, Infants and Children (WIC) program) \n
+    -The Department of Mental Health, \n
+    -The Department of Developmental Disabilities, \n
+    -Opportunities for Ohioans With Disabilities \n
+    -Any state-assisted college or university that provides assistance to disabled students \n
+    -Any county treasurer\’s office; \n
+    -Any public high school or vocational school \n
+    -Any public library. \n
+    </string>
+
+    <string name="reg_Ok">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be at least 18 years old. \n
+    Must be a resident of Oklahoma. \n
+    Persons judged incapacitated by a court may not register to vote. \n
+    A convicted felon may not register for a period equal to the time of the original sentence. A convicted felon who has been pardoned may register. \n
+    ID Required for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    Voter registration is closed for 24 days before an election. If you apply when registration is closed, your application will be processed when registration reopens after the election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online: You can update your Voter Registration Information online \n
+    In person: Voter registration applications are available at: \n
+    -your County Election Board; \n
+    -post offices; \n
+    -tag agencies; \n
+    -when you get your driver\'s license; \n
+    -when you apply for assistance at some government agencies; \n
+    -libraries; and \n
+    -Many other public locations. \n
+    By mail/ in writing: Download and mail your Voter registration application to the State Election Board. The card is already addressed, but you must add a first-class postage stamp. If you fill out your voter registration application form at a tag agency when you get your driver\'s license or when you apply for assistance at a government agency, the agency will mail the form to the State Election Board for you. \n
+    By fax: Contact your County Board of Elections by phone before sending any faxes. \n
+    </string>
+
+    <string name="reg_Oregon">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be at least 16 years old to register. If you are not yet 18 years of age, you will not receive a ballot until an election occurs on or after your 18th birthday.​​ \n
+    Must be a resident of Oregon. \n
+    Felons who are not incarcerated are eligible to vote in Oregon. Under Oregon law the right to vote is restored automatically upon release from incarceration. \n
+    ID Required for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    You must register to vote for an upcoming election at least 21 days before that election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online: Register to vote online. \n
+    In person: You may also register to vote at any county elections office. \n
+    By mail/ in writing: Download and mail a form to your county elections office. \n
+    By fax: Contact your county elections official for faxing options. \n
+    </string>
+
+    <string name="reg_Pennsylvania">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    At least 18 years of age on or before the day of the next primary, special, municipal, or general election.​​ \n
+    Must be a resident of Pennsylvania and the election district in which you want to register and vote for at least 30 days before the next primary, special, municipal, or general election. \n
+    Voting rights restored automatically after release from prison. Learn more about convicted felons voting information. \n
+    ID Required for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    In Pennsylvania, the deadline to register to vote is 30 days prior to each election. Applications received after that date will be processed for the next primary, special, municipal or general election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online:  Online voter registration application \n
+    In person: You can register to vote at a County Voter Registration Office or other designated sites: \n
+    -State offices that provide public assistance and services to persons with disabilities \n
+    -Armed Forces Recruitment Centers \n
+    -County Clerk of Orphans\' Court offices, including each Marriage License Bureau \n
+    -Area Agencies on Aging \n
+    -Centers for Independent Living \n
+    -County Mental Health and Mental Retardation offices \n
+    -Student disability services offices of the State System of Higher Education \n
+    -Offices of Special Education \n
+    -DA Complementary Paratransit offices \n
+    -Any agency using the Compass application \n
+    You can also register to vote at any PennDOT or driver\’s license center when you obtain or update your driver\'s license. \n
+    By mail/ in writing: You can register to vote by mail in two ways: \n
+    - Download the Pennsylvania Voter Registration Application. Print it, then fill it in, sign it and send it to your county voter registration office. \n
+    - Complete, sign and deliver to your county elections office by mail or in person. \n
+    Other Voter Registration Application Information: Once you have registered to vote, you are not required to register again unless you change your residence, name, or political party affiliation. \n
+    </string>
+
+    <string name="reg_RhodeIsland">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    At least 16 years of age, but you must be at least 18 years of age to vote.​​ \n
+    Must be a resident of the Rhode Island city or town where you wish to vote. \n
+    Must not be legally judged mentally incompetent by a court of law. \n
+    Must not be incarcerated in a correctional facility upon a felony conviction. Once out of prison, you can restore your right to vote by either notifying your local board of canvassers in writing or by submitting a new voter registration form. \n
+    ID Required for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    You must register at least 30 days before a primary or election in which you wish to vote.
+If you miss the deadline, Rhode Island allows for same day voter registration for the Presidential Election, but you will only be able to vote for President and Vice President. You can only register and vote on Election Day at the location designated by your local board of canvassers. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online: Online Voter Registration \n
+    In person: Download the voter registration form and bring the completed form to your local board of canvassers. \n
+    By mail/in writing: Download the voter registration form and mail the completed form to your local board of canvassers. \n
+    </string>
+
+    <string name="reg_SouthCarolina">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be at least 18 years old on or before the day of the election.​​ \n
+    Must be a resident of South Carolina, the county, and the precinct in which you will be voting. \n
+    Must not be under a court order declaring you mentally incompetent. \n
+    Not be confined in any public prison resulting from a conviction of a crime. Have never been convicted of a felony or offense against the election laws OR if previously convicted, have served the entire sentence, including probation or parole, or have received a pardon for the conviction. \n
+    ID Required for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    You must be registered at least 30 days prior to any election in order to vote in that election. Registration by mail applications must be postmarked at least 30 days prior to that particular election to be eligible. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online: South Carolina Voter Registration Application \n
+    In Person: Register in person at your county board of voter registration. \n
+    By Mail/ in writing: Download a form. complete it, and mail it to your county board of voter registration. \n
+    By Fax: Download a form, complete it, and fax it to your county board of voter registration. \n
+    By email: You may download a form, complete it, scan it, and email it to your county board of voter registration. \n
+    </string>
+
+    <string name="reg_SouthDakota">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    At least 18 years old on or before the day of the election.​​ \n
+    Must be a resident of South Dakota. \n
+    Must not be judged mentally incompetent by a court of law. \n
+    Not currently serving a sentence for a felony conviction which included imprisonment, served or suspended, in an adult penitentiary system. \n
+    ID Required for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    The deadline for registration is 15 days before any election. Your form must be received by the county auditor by this deadline if you are to vote in the next election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    In person: You may register at the following locations: \n
+    - County auditor\'s office \n
+    - Driver\'s license station (when you are renewing or applying for a driver\'s license you may also register to vote on the driver\'s license application) \n
+    - City Finance Office \n
+    - Public assistance agencies providing food stamps, TANF or WIC \n
+    - Department of Human Services offices which provide assistance to the disabled \n
+    - Military recruitment offices \n
+    By mail/ in writing: Mail a printable form to your county auditor\'s office. South Dakota law does not allow you to submit your voter registration form via fax or email. \n
+    </string>
+
+    <string name="reg_Tennessee">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be 18 years or older on or before the date of the election.​​ \n
+    Must be a resident of Tennessee. \n
+    If you have been convicted of a felony, your eligibility to register and vote depends upon the crime you were convicted of and the date of your conviction. If your conviction made you ineligible, you may regain your eligibility if your conviction has been expunged or if you have had your voting rights restored, unless you were convicted of a crime that rendered you permanently ineligible to vote. \n
+    ID Required for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    You must register 30 days prior to the election. Mail-in applications must be postmarked no later than 30 days prior to the elections. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online \n
+    In person: Pick up voter registration applications in person at the following locations: \n
+    -County Election Commission Offices \n
+    -County Clerk’s Offices \n
+    -Public Libraries \n
+    -Register of Deeds Offices \n
+    Or during a transaction with one of the following agencies: \n
+    -Department of Health (WIC program), \n
+    -Department of Human Services, \n
+    -Department of Intellectual and Developmental Disabilities \n
+    -Department of Mental Health \n
+    -Department of Safety (motor vehicles division) \n
+    -Department of Veteran’s Affairs \n
+    By mail/ in writing: Download and complete the voter registration application and mail it to your county election commission. \n
+    </string>
+
+    <string name="reg_Texas">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    You must be at least 17 years and 10 months old to register, and you must be 18 years of age by Election Day. \n
+    Must be a resident of the county where you submit the application. \n
+    You are not a convicted felon (you may be eligible to vote if you have completed your sentence, probation, and parole). \n
+    You have not been declared by a court exercising probate jurisdiction to be either totally mentally incapacitated or partially mentally incapacitated without the right to vote. \n
+    ID Required for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    Your application must be received in the Voter Registrar\’s office or postmarked at least 30 days before an election for you to be eligible to vote in that election. Your voter registration will not become effective until 30 days after acceptance. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online: Texas voter registration application \n
+    You must fill out the online application, printed it, and mailed it to your local County Voter Registrar\’s office to be officially registered. \n
+    In person: You may pick up a registration form or register at any of the following locations: \n
+    -Voter Registrar\'s office \n
+    -Libraries \n
+    -Government Offices \n
+    -Post offices \n
+    -High schools \n
+    By mail/ in writing: Mail the online registration form or send in a request to have a voter registration form mailed to you to fill out. \n
+    </string>
+
+    <string name="reg_Utah">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Be 17 years of age but will be at least 18 years of age on or before the next general election. \n
+    Must be a resident of Utah for at least 30 days immediately before Election Day. \n
+    ID Required for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    You may register online or in-person at your county clerk\'s office up to 7 days before the election. If sent by mail, it must be postmarked at least 30 days before an election to be eligible to vote in that election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online: Utah Online Voter Registration \n
+    In person: A voter may register to vote in person at the county clerk\'s office up to 7 days before the election. Or at one of the following locations: \n
+    -The Drivers License Division \n
+    -Division of Workforce Services \n
+    -Utah State Department of Health \n
+    -Women, Infant and Children (WIC) Offices \n
+    -The Division of Services for People with Disabilities \n
+    -The Department of Rehabilitation \n
+    -Public colleges and Universities. \n
+    Or you can register to vote at a voting location on Election Day or at an Early Voting Location. \n
+    By mail/ in writing: Voters may download a Utah, Salt Lake County, or National voter registration form. Any form, once completed, may be mailed to your county clerk\'s office and postmarked no later than 30 days before the next election. \n
+    </string>
+
+    <string name="reg_Vermont">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be 18 years or older on or before election day. \n
+    Must be a resident of Vermont and a resident of the town in which you apply to be added to the checklist. \n
+    Has taken, or has previously taken, the Voter’s Oath. \n
+    ID Required for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    You may register to vote on any day up to and including the day of the election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online: Online registration \n
+    In person: Obtain and complete an application in person at your local town clerk. \n
+    By mail/ in writing: Download a copy of the application, fill it out and send it to your town clerk. \n
+    </string>
+
+    <string name="reg_Virginia">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be 18 years old (Any person who is 17 years old and will be 18 years of age at the next general election shall be permitted to register in advance and also vote in any intervening primary or special election). \n
+    Must be a resident of Virginia. \n
+    Not currently declared mentally incompetent by a court of law. \n
+    If convicted of a felony, your right to vote must have been restored. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    The registration deadline to vote in the primary and general election or update your address is 22 days before the election. If there is a special election, the registration deadline is 13 days before the election and if the Governor calls a special election, the deadline is 7 days. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online: Virginia voter registration \n
+    In person: Registration can be completed at any of the following places: \n
+    -Local voter registration office \n
+    -State or local government offices when applying or re-certifying for Aid to Dependent Children, Food Stamps, WIC, Medicaid, or Rehabilitation Services \n
+    -Government offices in the State that provide State-funded programs primarily engaged in providing services to person with disabilities \n
+    -Armed forces recruitment offices \n
+    -Public libraries \n
+    -Virginia Department of Elections office \n
+    -Department of Motor Vehicles offices \n
+    -Voter Registration Drives \n
+    By mail/ in writing: The completed application can be filed with your local election office or mailed to the address printed on the form. If mailed, the application must be postmarked no later than the deadline. \n
+    </string>
+
+    <string name="reg_Washington">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be at least 18 years old by Election Day. \n
+    Must be a resident of Washington State at least 30 days before Election Day. \n
+    Some restrictions on mental competency. \n
+    Must not be under Department of Corrections supervision for a Washington Felony conviction. \n
+    ID Required for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    The in person voting registration deadline for the general election is 8 days before the election. Mail in and online registration must be completed 29 days prior to the election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online: If you have a Washington State driver’s license or ID card, you can register online. \n
+    In person: Visit your County Elections department to obtain and complete a voter registration form in person. \n
+    By mail/ in writing: request a voter registration form be sent to your residential address. Or download a Washington State Voter Registration Form and mail it to your county elections office. \n
+    </string>
+
+    <string name="reg_WestVirginia">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    At least 17 years old, and 18 before the next General Election. 17 year olds may register and vote in primary elections if they turn 18 before the next general election. \n
+    Reside at their registered legal address for at least thirty (30) days before the election to be considered eligible to vote. This thirty-day requirement also applies to elections in municipalities, barring other language in municipal charters. \n
+    Not been judged incompetent by a court of competent jurisdiction. \n
+    No one under conviction, probation, or parole for treason, bribery in an election, or any felony is allowed to vote. Once a person completes his or her sentence, he or she may register to vote again. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    You may register at any time. However, to be eligible to vote in a specific election, you must register 21 days before that election. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online \n
+    In person: You may register to vote at your County Clerks office \n
+    By mail/in writing: Request an application from your County Clerk or download the mail-in application form and return it completed to your county clerk\'s office. \n
+    </string>
+
+    <string name="reg_Wisconsin">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    Must be 18 years or older on Election Day. \n
+    Must be a resident of Wisconsin for at least 10 days. \n
+    Rights restored upon completion of sentence, including prison, parole, and probation. If you are in jail serving a misdemeanor sentence or awaiting trial, you are eligible to vote. \n
+    ID Required for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    -By mail and online: Up to 20 days before the election. \n
+    -In the municipal clerk\’s office: You may register in-person in your municipal clerk’s office up until the Friday before the election at 5:00 p.m. or close of business, whichever is later. You must always provide a Proof of Residence document when registering to vote. \n
+    -At the polling place on Election Day: You may register at the polls on Election Day. You must always provide a Proof of Residence document when registering to vote. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    Online \n
+    In person: Register in the municipal clerk\'s office \n
+    By mail/ in writing: Registration forms should be mailed to your municipal clerk. You can download a Wisconsin Voter Registration Application. Your form must be printed, signed, and mailed or delivered, to your municipal clerk. You must always provide a Proof of Residence document when registering. If you are registering by mail, you can use any of the forms of Proof of Residence except a residential lease. \n
+    Note: You may also register to vote at the polling place on Election Day. \n
+    </string>
+
+    <string name="reg_Wyoming">VOTER REGISTRATION REQUIREMENTS: \n
+    \n
+    A seventeen year old may register to vote if they will be eighteen (18) years old by the next general election. \n
+    Must be a resident of Wyoming and the precinct in which you register. \n
+    Must not have been adjudicated mentally incompetent. \n
+    Not been convicted of a felony, or if convicted, has had civil or voting rights restored. \n
+    ID Required for registration. \n
+    \n
+    VOTER REGISTRATION DEADLINE: \n
+    \n
+    The deadline for voter registration is 14 days before an election. However, you may register and vote at the same time during the absentee voting period or on Election Day. \n
+    \n
+    WHERE TO REGISTER TO VOTE: \n
+    \n
+    In person: Print out the form and sign it in front of any registry agent at your County Clerk’s office or Town Clerk’s Office. You may also register at your polling place on Election Day. Please bring documents that prove your eligibility to register and vote. \n
+    By mail/ in writing: Voters who are not currently in Wyoming or who cannot go to the county clerk\'s office may register to vote by mail. Print the voter registration form and follow these instructions: \n
+    \n
+    1. Print out the voter registration form and fill it out in front of a notary or person authorized to administer oaths. Print clearly, using a black or blue ink pen (not felt tip). \n
+    \n
+    2. Show identification to the notary or registry agent. See list of acceptable documents below: \n
+    -Valid Wyoming driver’s license \n
+    -Different state’s driver’s license \n
+    -ID issued by a local, state or federal agency \n
+    -U.S. passport \n
+    -School ID  \n
+    -Military ID \n
+    -Certificate of US citizenship or naturalization; \n
+    -Draft record; \n
+    -Voter registration card from another state or county; \n
+    -Original or certified copy of birth certificate bearing an official seal; \n
+    -Certificate of birth abroad issued by U.S. State Department; \n
+    -Any other form of ID issued by an official agency \n
+    \n
+    3. Sign the voter registration oath. Have the notary or registered agent sign the form. \n
+    4. Provide copies of the ID provided to the notary. \n
+    5. Send the voter registration form and copies of the ID to your local county clerk. Mail your form as soon as possible. Voter registration closes two weeks prior to an election. \n
+    </string>
+
+    <string name="voteAlabama">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? Yes</string>
+    <string name="voteAlaska">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteArizona">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteArkansas">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteCalifornia">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteColorado">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteConnecticut">Vote-By-Mail: no\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteDelaware">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteFlorida">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? Yes</string>
+    <string name="voteGeorgia">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? Yes</string>
+    <string name="voteHawaii">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? Yes</string>
+    <string name="voteIdaho">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? Yes</string>
+    <string name="voteIllinois">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteIndiana">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? Yes</string>
+    <string name="voteIowa">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteKansas">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? Yes</string>
+    <string name="voteKentucky">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteLouisiana">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? Yes</string>
+    <string name="voteMaine">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteMaryland">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteMassachusetts">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteMichigan">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? Yes</string>
+    <string name="voteMinnesota">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteMississippi">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? Yes</string>
+    <string name="voteMissouri">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteMontana">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteNebraska">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteNevada">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteNewHampshire">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? Yes</string>
+    <string name="voteNewJersey">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteNewMexico">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteNewYork">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteNorthCarolina">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteNorthDakota">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteOhio">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteOklahoma">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? Yes</string>
+    <string name="voteOregon">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: No\nPhoto ID Required? No</string>
+    <string name="votePennsylvania">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteRhodeIsland">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? Yes</string>
+    <string name="voteSouthCarolina">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? Yes</string>
+    <string name="voteSouthDakota">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? Yes</string>
+    <string name="voteTennessee">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? Yes</string>
+    <string name="voteTexas">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteUtah">Vote-By-Mail: Yes\nCan Vote Early: yes\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteVermont">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteVirginia">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? Yes</string>
+    <string name="voteWashington">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: No\nPhoto ID Required? No</string>
+    <string name="voteWestVirginia">Vote-By-Mail: Yes\nCan Vote Early: Yes\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="voteWisconsin">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? Yes</string>
+    <string name="voteWyoming">Vote-By-Mail: Yes\nCan Vote Early: No\nVote On Election Day: Yes\nPhoto ID Required? No</string>
+    <string name="state_flagsDes">State flags</string>
+    <string name="moreTitle">For More Information About Your Voting Rights Visit The Links Below:</string>
+    <string name="btn1">U.S. Election Assistance Commission</string>
+    <string name="btn2">Nonprofit Vote</string>
+    <string name="spin">Spin</string>
+    <string name="Title">Spin To See What Party To Vote For</string>
+    <string name="pointerDes">pointer to select</string>
+    <string name="wheelDes">Wheel for party selection</string>
+    <string name="side_title">Know Your Vote</string>
+    <string name="voter_game">Voter Game</string>
+    <string name="more_information">More information</string>
+    <string name="voter_information">Voter information</string>
+    <string name="voter_registration_information">Voter Registration Information</string>
+    <string name="vid1_description">Description: \n This short video gives a good overview of the reason why in the United States hold elections and how we have set up the framework of how the elections are held in the United States and how we haven\'t made that framework as solid as most think.</string>
+    <string name="vid2_description">Description: \n Eric Liu talks about how he is working toward making voting a exciting event again. He talks about the former excitement Americans had for voting and the way we have become more apathetic to it. \nHe also make the important point that not voting is not the same as not taking part in an election. Not voting can only strength those that wish to see changes that work against your own interest.</string>
+    <string name="youTube2Title">There\'s no such thing as not voting</string>
+    <string name="youTube1Title">Election Basics</string>
+    <string name="appTitle">Know Your Vote</string>
+</resources>
